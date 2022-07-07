@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.top-banner {
+    color: white;
+    text-align: center;
+    background-image: url(images/donation11.jpg);
+    background-repeat: no-repeat;
+    padding: 200px 150px;
+    margin-bottom: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#help{
+    font-size: 50px;
+    text-shadow: aqua;
+}
+.Donate-link{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.Donate-today-area{
+    text-align: center;
+}
+.flex-container-tk{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 50%;
+    display: block;
+    padding-left: 10px;
+    border: 3px solid white;
+    font-weight: 700;
+}
+.two-hundred-tk{
+    border: 3px solid tomato;
+    border-radius: 20px;
+}
